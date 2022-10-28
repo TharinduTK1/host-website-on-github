@@ -10,12 +10,6 @@ body{
     margin-right: 0;
 }
 
-.tagline{
-    color: brown;
-    cursor: pointer;
-    text-decoration: none;
-}
-
 .tt-text{
     color: brown;
     text-decoration: none;
