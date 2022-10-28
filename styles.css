@@ -5,3 +5,33 @@ body{
     padding: 150px 0px 0px 150px;
     font-family: 'Poppins', sans-serif;
 }
+
+.discription{
+    margin-right: 0;
+}
+
+.tagline{
+    color: brown;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.tt-text{
+    color: brown;
+    text-decoration: none;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 12px;
+    padding: 12px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    background-color: rgb(251, 193, 48);
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
