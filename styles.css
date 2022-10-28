@@ -8,11 +8,19 @@ body{
 
 .discription{
     margin-right: 0;
+    font-size: 20px;
+    margin-top: 0px
 }
+
+h4{
+    font-size: 35px;
+}
+
 
 .tt-text{
     color: brown;
     text-decoration: none;
+    font-size: 50px;
 }
 
 
